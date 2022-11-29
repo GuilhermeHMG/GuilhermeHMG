@@ -1,6 +1,6 @@
 ### Seja bem vindo! Meu nome é Guilherme 👋
 
-- 🔭 Hoje trabalho com Front-End
+- 🔭 Hoje trabalho com Front-End e Back-End
 - 🌱 Estudando Full Stack PHP - Escola UPInside
 
 <div align="center">
