@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com Front-End e Back-End
 - 🌱 Estudando Full Stack PHP - Escola UPInside
+- Um viajante nas vastas terras do conhecimento!
 
 <div align="center">
   <a href="https://github.com/GuilhermeHMG">
