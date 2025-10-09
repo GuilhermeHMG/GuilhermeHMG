@@ -1,7 +1,7 @@
 ### Seja bem vindo! Meu nome é Guilherme 👋
 
 - 🔭 Hoje trabalho com Front-End e Back-End
-- 🌱 Estudando Full Stack PHP - Escola UPInside
+- 🌱 Programador Web Full Stack há 4 anos 
 - Um viajante nas vastas terras do conhecimento!
 
 <div align="center">
